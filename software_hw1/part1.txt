@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+    <html>
+      <head>
+        <title>About Me</title>
+      </head>
+      <body>
+<br>
+        <h1>Yang Chin-Wei</h1>
+        <p>I am amphibious, legal to drink, and a bilingual. I study computer science because i hate my life</p>
+<h1>My Professional Profile</h1>
+<p>
+ <a href="https://github.com"> Chin-Wei's Github</a>
+<br>
+<img src="71392368_401538430745808_5384244351717081088_n.jpg" alt="self_portrait" width="525" height="700">
+        <br>
+<h1>My Favorite Projects</h1>  
+<style>
+table {
+font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+ border: 1px solid #dddddd;
+ text-align: left;
+ padding: 8px;
+}
+
+
+</style>
+</head>
+<body>
+
+<table>
+ <tr>
+   <th>Technologies Used</th>
+   <th>Country</th>
+ </tr>
+ <tr>
+   <td>Tinder_remake</td>
+   <td>Python</td>
+ </tr>
+ <tr>
+   <td>Oregon trail</td>
+   <td>c++</td>
+ </tr>
+ <tr>
+   <td>connected_component_alg</td>
+   <td>python</td>
+ </tr>
+</table>
+<br>
+<h1>Countries Travelled</h1>
+<ul>
+ <li>Taiwan</li>
+ <li>Quebec</li>
+</ul>  
+<br>
+<h1>My Interests</h1>
+<ol>
+ <li>Money</li>
+ <li>Pussy</li>
+ <li>Alcohol</li>
+</ol>
+
+    </body>
+    </html>

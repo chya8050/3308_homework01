@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+
+</body>
+<form>
+  <div class="form-group">
+    <label for="exampleFormControlInput1">Article Title</label>
+    <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="">
+  </div>
+  <div class="form-group">
+    <label for="exampleFormControlSelect1">Author name</label>
+    <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="">
+    </select>
+  </div>
+<form>
+  <div class="form-group">
+    <label for="exampleFormControlFile1">Example file input</label>
+    <input type="file" class="form-control-file" id="exampleFormControlFile1">
+  </div>
+</form>
+  <div class="form-group">
+    <label for="exampleFormControlSelect1">Pages</label>
+    <select class="form-control" id="exampleFormControlSelect1">
+      <option>cate</option>
+      <option>cate</option>
+      <option>cate</option>
+    </select>
+  </div>
+<head>
+  <title>Bootstrap Example</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<div class="container">
+  <h2>Select Tags</h2>
+  <form>
+    <label class="checkbox-inline">
+      <input type="checkbox" value="">Python
+    </label>
+    <label class="checkbox-inline">
+      <input type="checkbox" value="">C++
+    </label>
+    <label class="checkbox-inline">
+      <input type="checkbox" value="">Java
+    </label>
+  </form>
+</div>
+
+<div class="container">
+  <h2>Visibility</h2>
+  <form>
+    <label class="checkbox-inline">
+      <input type="checkbox" value="">Private
+    </label>
+    <label class="checkbox-inline">
+      <input type="checkbox" value="">Public
+    </label>
+
+  </form>
+</div>
+<head>
+  <title>Bootstrap Example</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<div class="container">
+  <h2>Log in to finish submitting</h2>
+  <form action="/action_page.php">
+    <div class="form-group">
+      <label for="username">Username:</label>
+      <input type="username" class="form-control" id="username" placeholder="" name="username">
+    </div>
+    <div class="form-group">
+      <label for="pwd">Password:</label>
+      <input type="password" class="form-control" id="pwd" placeholder="" name="pwd">
+    </div>
+    <div class="checkbox">
+      <label><input type="checkbox" name="remember"> Remember me</label>
+    </div>
+    <button type="submit" class="btn btn-default">Submit</button>
+  </form>
+</div>
+
+</body>
+</html>
